@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abooot" alt="abooot" /></a> </p>
 
-- 🌱 I’m currently learning **reactJS , vueJS**
-
 - 👨‍💻 All of my projects are available at [https://troopl.com/abdullah_jaber](https://troopl.com/abdullah_jaber)
 
-- 💬 Ask me about **html , css and ruby**
+- 💬 Ask me about **html , css and Javascript**
 
 - 📫 How to reach me **ando.jaber@gmail.com**
 
